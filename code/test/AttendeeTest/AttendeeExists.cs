@@ -10,7 +10,7 @@ namespace AttendeeTest
         [Fact]
         public void AttendeeExistsReturnTrue()
         {
-
+//595959
             //tttt
             Attendee attendee = new Attendee();
             bool doesExist = attendee.AddAttendee("doesnotexist");
@@ -18,4 +18,5 @@ namespace AttendeeTest
         }
     }
 }
+
 
