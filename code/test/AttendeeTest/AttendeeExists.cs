@@ -10,6 +10,7 @@ namespace AttendeeTest
         [Fact]
         public void AttendeeExistsReturnTrue()
         {
+            //898989
 //595959
             //tttt
             Attendee attendee = new Attendee();
@@ -18,5 +19,6 @@ namespace AttendeeTest
         }
     }
 }
+
 
 
